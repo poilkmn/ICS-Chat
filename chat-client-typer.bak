@@ -4,7 +4,6 @@
 (require 2htdp/universe)
 (require picturing-programs)
 (require test-engine/racket-tests)
-(provide all-defined-out)
 
 ; chat-struct: text(string) -> struct
 ; contains a string to be used to draw the chat box
